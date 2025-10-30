@@ -8,8 +8,8 @@ void loop() {
   //Serial.begin(115200);
   digitalWrite(ledPin, HIGH); 
   //Serial.println("LED OFF");
-  delay(100);                     
+  delay(50);                     
   digitalWrite(ledPin, LOW); 
   //Serial.println("LED ON");  
-  delay(100);                     
+  delay(50);                     
 }
